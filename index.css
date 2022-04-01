@@ -5,10 +5,10 @@ body{
 }
 
 .warm{
-    background-image: url('/assets/warm-bg.jpg');
+    background-image: url('assets/warm-bg.jpg');
 }
 .cold{
-    background-image: url('/assets/cold-bg.jpg');
+    background-image: url('assets/cold-bg.jpg');
 }
 
 .container-box{
